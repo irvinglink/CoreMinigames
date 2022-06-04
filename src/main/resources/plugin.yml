@@ -1,0 +1,11 @@
+name: Minigames
+version: '${project.version}'
+main: me.system32.coreminigames.Main
+api-version: 1.18
+authors: [ System32 ]
+depend: [PlaceholderAPI]
+commands:
+  team:
+    description: Team Command
+  contador:
+    description: Contador Command
